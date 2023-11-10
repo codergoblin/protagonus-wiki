@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "a00c2931ece93c79",
+    "type": "split",
+    "children": [
+      {
+        "id": "79c071e3ad693de7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c85d480c365094b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "caducea/demiurges/Pleroma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f11b628aab4e0aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mandina/Mandina.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0bb6489c38c52432",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7d20da9ea0c9862",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a206f6b04b714752",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cf233d7b9b105ebd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5bb96320d1ed4f54",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "06e88f0ff34e152a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b12bff0d3c9c4232",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "528d5115908c1330",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "caducea/demiurges/Pleroma.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98c1a63917241714",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "caducea/demiurges/Pleroma.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8fe127bdff3b0aee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "116e5baf9fc36c13",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "caducea/demiurges/Pleroma.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c85d480c365094b2",
+  "lastOpenFiles": [
+    "caducea/demiurges/Demiurge.md",
+    "caducea/demiurges/Pleroma.md",
+    "caducea/demiurges/Solomon the Dominant.md",
+    "caducea/demiurges/Orthros the Wise.md",
+    "caducea/demiurges/Kyramides the Curious.md",
+    "caducea/demiurges/Kybalion the Daring.md",
+    "caducea/demiurges/Hermeus the Loving.md",
+    "caducea/demiurges/Caduceus the Thrice Great.md",
+    "caducea/organisations/Ostophore.md",
+    "caducea/organisations/Grave knights.md",
+    "storm in phanes/flora-fauna/Untitled.md",
+    "storm in phanes/flora-fauna/Preadictus auriculus.md",
+    "storm in phanes/flora-fauna/Fatum Phallus.md",
+    "storm in phanes/characters/Buldreath Frostforge.md",
+    "storm in phanes/flora-fauna",
+    "storm in phanes/characters/Jeremiah Crow.md",
+    "storm in phanes/characters/Berthold MIseratti.md",
+    "storm in phanes/characters/Maurice Delaunay.md",
+    "caducea/materials/Lions Eyes.md",
+    "mandina/Mandina.md",
+    "storm in phanes/characters/Negwen Lonecrest.md",
+    "README.md",
+    "storm in phanes/characters/pc/Kork Vingård.md",
+    "storm in phanes/characters/Oliden the terrible.md",
+    "storm in phanes/characters/Astrid Kish.md",
+    "mandina/families/Feral manes.md",
+    "mandina/families",
+    "mandina/families/Moons of change.md",
+    "synthea",
+    "storm in phanes/characters/pc",
+    "assets/battlemaster of molokh.png",
+    "molokith empire",
+    "deities",
+    "caducea/materials",
+    "storm in phanes/characters",
+    "storm in phanes",
+    "mandina",
+    "assets/ostophore.png",
+    "assets/green lion.png",
+    "assets/grave_knight_crest.png",
+    "assets/caduceus.png",
+    "Pasted image 20231109155107.png",
+    "assets/grave knight.png",
+    "Pasted image 20231109144735.png"
+  ]
+}

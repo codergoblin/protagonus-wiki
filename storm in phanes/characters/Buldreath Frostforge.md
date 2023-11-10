@@ -1,0 +1,1 @@
+Initiate archivist of the [[Hermetic order]], student of [[Negwen Lonecrest]] 
