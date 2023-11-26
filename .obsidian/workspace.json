@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "caducea/demiurges/Pleroma.md",
+                "file": "srd/Spells/Cone of Cold.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "caducea/demiurges/Pleroma.md",
+                "file": "srd/Spells/Cone of Cold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "caducea/demiurges/Pleroma.md",
+                "file": "srd/Spells/Cone of Cold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,11 +137,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "caducea/demiurges/Pleroma.md"
+                "file": "srd/Spells/Cone of Cold.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -159,49 +160,53 @@
   },
   "active": "c85d480c365094b2",
   "lastOpenFiles": [
-    "caducea/demiurges/Demiurge.md",
-    "caducea/demiurges/Pleroma.md",
-    "caducea/demiurges/Solomon the Dominant.md",
-    "caducea/demiurges/Orthros the Wise.md",
-    "caducea/demiurges/Kyramides the Curious.md",
-    "caducea/demiurges/Kybalion the Daring.md",
-    "caducea/demiurges/Hermeus the Loving.md",
-    "caducea/demiurges/Caduceus the Thrice Great.md",
-    "caducea/organisations/Ostophore.md",
-    "caducea/organisations/Grave knights.md",
-    "storm in phanes/flora-fauna/Untitled.md",
-    "storm in phanes/flora-fauna/Preadictus auriculus.md",
-    "storm in phanes/flora-fauna/Fatum Phallus.md",
-    "storm in phanes/characters/Buldreath Frostforge.md",
-    "storm in phanes/flora-fauna",
-    "storm in phanes/characters/Jeremiah Crow.md",
-    "storm in phanes/characters/Berthold MIseratti.md",
-    "storm in phanes/characters/Maurice Delaunay.md",
-    "caducea/materials/Lions Eyes.md",
-    "mandina/Mandina.md",
-    "storm in phanes/characters/Negwen Lonecrest.md",
-    "README.md",
-    "storm in phanes/characters/pc/Kork Vingård.md",
-    "storm in phanes/characters/Oliden the terrible.md",
-    "storm in phanes/characters/Astrid Kish.md",
-    "mandina/families/Feral manes.md",
-    "mandina/families",
-    "mandina/families/Moons of change.md",
-    "synthea",
-    "storm in phanes/characters/pc",
-    "assets/battlemaster of molokh.png",
-    "molokith empire",
-    "deities",
-    "caducea/materials",
-    "storm in phanes/characters",
-    "storm in phanes",
-    "mandina",
-    "assets/ostophore.png",
+    "stat blocks/Ostophor.md",
+    "srd/Spells/Cone of Cold.md",
+    "srd/Spells/Acid Splash.md",
+    "srd/Spells/# Spellcasting.md",
+    "srd/Spells/## Spell Lists (Wikilinked).md",
+    "srd/Spells/## Spell Lists.md",
+    "Untitled.md",
+    "srd/README.md",
+    "srd/RE&.logo.png",
+    "srd/Legal.md",
+    "srd/Changelog.md",
+    "srd/Treasure (Alt)/Magic Items Z.md",
+    "srd/Treasure (Alt)/Magic Items Y.md",
+    "srd/Treasure (Alt)/Magic Items X.md",
+    "srd/Treasure (Alt)/Magic Items W.md",
+    "srd/Treasure (Alt)/Magic Items V.md",
+    "srd/Treasure (Alt)/Magic Items U.md",
+    "srd/Treasure (Alt)/Magic Items T.md",
+    "srd/Treasure (Alt)/Magic Items S.md",
+    "srd/Treasure (Alt)/Magic Items R.md",
+    "srd/Treasure (Alt)/Magic Items Q.md",
+    "srd/Treasure (Alt)/Magic Items P.md",
+    "srd/Treasure (Alt)/Magic Items O.md",
+    "srd/Treasure (Alt)/Magic Items N.md",
+    "srd/Treasure (Alt)/Magic Items M.md",
+    "srd/Treasure (Alt)/Magic Items L.md",
+    "srd/Treasure (Alt)/Magic Items K.md",
+    "srd/Treasure (Alt)",
+    "srd/Treasure",
+    "srd/Spells (Alt)",
+    "srd/Spells",
+    "srd/Races",
+    "srd/Monsters (Alt)",
+    "srd/Monsters",
+    "srd/Gameplay",
+    "srd/Gamemastering",
+    "srd/Equipment",
+    "srd/DND.SRD.Wiki-0.5.1/RE&.logo.png",
+    "Untitled.canvas",
+    "assets/patricia swartz.png",
+    "assets/astrid kish.png",
+    "assets/berthold miseratti.png",
+    "assets/ostophore_megaloschemos.png",
     "assets/green lion.png",
-    "assets/grave_knight_crest.png",
-    "assets/caduceus.png",
-    "Pasted image 20231109155107.png",
-    "assets/grave knight.png",
-    "Pasted image 20231109144735.png"
+    "caducea/organisations/megaloschemos.canvas",
+    "assets/ostophore.png",
+    "assets/battlemaster of molokh.png",
+    "assets/grave_knight_crest.png"
   ]
 }

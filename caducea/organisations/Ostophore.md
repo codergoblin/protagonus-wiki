@@ -1,0 +1,1 @@
+![[ostophore_megaloschemos.png]]
