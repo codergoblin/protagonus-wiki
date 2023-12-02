@@ -1,0 +1,1 @@
+A burned down cabaret at the docks in [[Grey docks]] , owned by [[Maurice Delaunay]] 

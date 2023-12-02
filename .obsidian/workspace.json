@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srd/Spells/Cone of Cold.md",
+                "file": "storm in phanes/sif/Sailor's melody.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "srd/Spells/Cone of Cold.md",
+                "file": "storm in phanes/sif/Sailor's melody.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "srd/Spells/Cone of Cold.md",
+                "file": "storm in phanes/sif/Sailor's melody.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "srd/Spells/Cone of Cold.md"
+                "file": "storm in phanes/sif/Sailor's melody.md"
               }
             }
           }
@@ -160,43 +160,43 @@
   },
   "active": "c85d480c365094b2",
   "lastOpenFiles": [
-    "stat blocks/Ostophor.md",
+    "storm in phanes/sif/Sif.md",
+    "storm in phanes/sif/Sif's Charity.md",
+    "storm in phanes/sif/Staff and the serpent.md",
+    "storm in phanes/sif/Sailor's melody.md",
+    "storm in phanes/sif/Grey docks.md",
+    "synthea/Peltas.md",
+    "mariad/Scilla.md",
+    "mariad/Omni.md",
+    "mariad/Archethi.md",
+    "mariad/Sethi.md",
+    "storm in phanes/characters/sif/Rossanna Tsankaris.md",
+    "storm in phanes/characters/pc/Tryia Tsankaris.md",
+    "storm in phanes/flora-fauna/Untitled.md",
+    "storm in phanes/characters/Buldreath Frostforge.md",
+    "storm in phanes/characters/Negwen Lonecrest.md",
+    "storm in phanes/characters/Vagrant's retreat/Jeremiah Crow.md",
+    "storm in phanes/characters/sif/Patricia Swartz.md",
+    "storm in phanes/characters/Vagrant's retreat",
+    "storm in phanes/Indomitable.md",
+    "storm in phanes/Session notes.md",
+    "storm in phanes/Buccaneer.md",
+    "storm in phanes/characters/Vagrant's retreat",
+    "storm in phanes/characters/Vagrant's retreat/Oliden the terrible.md",
+    "storm in phanes/characters/sif/Maurice Delaunay.md",
+    "storm in phanes/characters/sif/Laufrey Koldum.md",
+    "storm in phanes/characters/sif/Berthold MIseratti.md",
+    "storm in phanes/characters/sif/Benjamin Delaunay.md",
+    "storm in phanes/characters/sif",
+    "storm in phanes/sif",
     "srd/Spells/Cone of Cold.md",
-    "srd/Spells/Acid Splash.md",
-    "srd/Spells/# Spellcasting.md",
-    "srd/Spells/## Spell Lists (Wikilinked).md",
-    "srd/Spells/## Spell Lists.md",
-    "Untitled.md",
-    "srd/README.md",
     "srd/RE&.logo.png",
-    "srd/Legal.md",
-    "srd/Changelog.md",
-    "srd/Treasure (Alt)/Magic Items Z.md",
-    "srd/Treasure (Alt)/Magic Items Y.md",
-    "srd/Treasure (Alt)/Magic Items X.md",
-    "srd/Treasure (Alt)/Magic Items W.md",
-    "srd/Treasure (Alt)/Magic Items V.md",
-    "srd/Treasure (Alt)/Magic Items U.md",
-    "srd/Treasure (Alt)/Magic Items T.md",
-    "srd/Treasure (Alt)/Magic Items S.md",
-    "srd/Treasure (Alt)/Magic Items R.md",
-    "srd/Treasure (Alt)/Magic Items Q.md",
-    "srd/Treasure (Alt)/Magic Items P.md",
-    "srd/Treasure (Alt)/Magic Items O.md",
-    "srd/Treasure (Alt)/Magic Items N.md",
-    "srd/Treasure (Alt)/Magic Items M.md",
-    "srd/Treasure (Alt)/Magic Items L.md",
-    "srd/Treasure (Alt)/Magic Items K.md",
     "srd/Treasure (Alt)",
     "srd/Treasure",
     "srd/Spells (Alt)",
     "srd/Spells",
     "srd/Races",
     "srd/Monsters (Alt)",
-    "srd/Monsters",
-    "srd/Gameplay",
-    "srd/Gamemastering",
-    "srd/Equipment",
     "srd/DND.SRD.Wiki-0.5.1/RE&.logo.png",
     "Untitled.canvas",
     "assets/patricia swartz.png",
