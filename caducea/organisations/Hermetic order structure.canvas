@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"e0bb61a2410a77af","type":"text","text":"**Redactor**\nStaff that work with sensitive information. They identify dangereus sources and decide which level vault it goes to. They also copy and redact the books to present their safer versions to the lower levels. ","x":160,"y":-438,"width":250,"height":298},
+		{"id":"a675d9e0efb40f55","type":"text","text":"**Librarian**\nStaff tasked with overlooking the archive, sorting and finding sources, as well as making sure the archives are well protected.","x":-600,"y":-438,"width":250,"height":218},
+		{"id":"f295a576be904e4f","type":"text","text":"**Magus**\nMagus learns arcane and even some level of forbidden knowledge in order to use it for the Hermetic order, such as defending it. ","x":-600,"y":-80,"width":250,"height":227},
+		{"id":"f95cfb1e831a4698","type":"text","text":"**Theoricus**\nReviewers analyzers and translators of sources.","x":160,"y":-90,"width":250,"height":124},
+		{"id":"a1499f4c3903985f","type":"text","text":"**Practicus**\nCurators of experiments to prove or disprove theories and knowledge found in the various sources.","x":-240,"y":-80,"width":250,"height":180},
+		{"id":"d46ba945f2ce9804","type":"text","text":"**Archivist**\nThe seeker of knowledge, tasked to search and retrieve for information to return it to the archive.","x":-240,"y":-740,"width":250,"height":160},
+		{"id":"d05b745eae2d8bf4","type":"text","text":"**Grand Archivist**\n","x":-240,"y":-438,"width":250,"height":58},
+		{"id":"90403eb3ae23ba21","type":"text","text":"**Philosophus**\nPhilosophus applies his experience to extrapolate known knowledge into creating new theories","x":-240,"y":220,"width":250,"height":160},
+		{"id":"3c5c3c3bc08f5db4","type":"text","text":"**Magister**\nMagisters are the unseen leaders of the hermetic order","x":-240,"y":440,"width":250,"height":120},
+		{"id":"3526f0b1a8531b4e","type":"text","text":"![[caduceus.png]]\nCrest of the hermetic order\n\"As above so below\"","x":160,"y":267,"width":250,"height":293}
+	],
+	"edges":[
+		{"id":"86df38450036c18a","fromNode":"d46ba945f2ce9804","fromSide":"bottom","toNode":"a675d9e0efb40f55","toSide":"top"},
+		{"id":"2ca92252b2e2ae18","fromNode":"d46ba945f2ce9804","fromSide":"bottom","toNode":"e0bb61a2410a77af","toSide":"top"},
+		{"id":"17507637807ccf17","fromNode":"a675d9e0efb40f55","fromSide":"bottom","toNode":"f295a576be904e4f","toSide":"top"},
+		{"id":"03b6d25e10d44b38","fromNode":"d46ba945f2ce9804","fromSide":"bottom","toNode":"a1499f4c3903985f","toSide":"top"},
+		{"id":"9ed4a377db24dc08","fromNode":"e0bb61a2410a77af","fromSide":"bottom","toNode":"f95cfb1e831a4698","toSide":"top"},
+		{"id":"a0c1beb4bad0eb1a","fromNode":"f295a576be904e4f","fromSide":"bottom","toNode":"90403eb3ae23ba21","toSide":"top"},
+		{"id":"51c288e9cb4ff884","fromNode":"a1499f4c3903985f","fromSide":"bottom","toNode":"90403eb3ae23ba21","toSide":"top"},
+		{"id":"9a383c6e1877e34c","fromNode":"f95cfb1e831a4698","fromSide":"bottom","toNode":"90403eb3ae23ba21","toSide":"top"},
+		{"id":"4c6727de31fcbff7","fromNode":"90403eb3ae23ba21","fromSide":"bottom","toNode":"3c5c3c3bc08f5db4","toSide":"top"}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"86ea2f9fd119a3f8","type":"text","text":"**Penthophore**\n*\"Carrier or grief\" A cleric of the order. It's duties is to prevent death that is not due and perform the burial rites*","x":-1460,"y":-860,"width":250,"height":180},
+		{"id":"7aafa714a7030eb0","type":"text","text":"**Ostophore**\n*\"Carrier of bones\" A distinguished cleric that is tasked with looking after the catacomb saints*","x":-1460,"y":-640,"width":250,"height":160},
+		{"id":"36b71f66e15109fd","type":"text","text":"**Semaphore**\n*\"Carrier of mark\", the highest cleric of the order, a singular leader of the organization*","x":-1460,"y":-440,"width":250,"height":160},
+		{"id":"62916cacd8a945da","type":"text","text":"**Patron**\n*A willing hero that follows the code of chivalry and supports the organization of the grave knights*","x":-860,"y":-1140,"width":250,"height":160},
+		{"id":"3bd025bffe1681f1","type":"text","text":"**Diaprat**\nA chosen patron that fits the standards to become a catacomb saint and is willing to forfeit it's afterlife to do so","x":-860,"y":-860,"width":250,"height":180},
+		{"id":"58144b952ffb9c7e","type":"text","text":"**Catacomb saint**\nA diaprat that transitioned into a lich-like state to continue serving and performing heroic deeds in the afterlife. ","x":-860,"y":-640,"width":250,"height":180},
+		{"id":"f94b08037eac607d","type":"text","text":"**Necromancer**\n*A master dedicated to the arcane art of transitioning the dead knights to catacomb saints*","x":-1150,"y":-860,"width":250,"height":160},
+		{"id":"482bf4dd156b3c33","type":"text","text":"![[grave_knight_crest.png]]\n*Crest of the grave knights*\n*\"et in morte servio\"*\n","x":-1145,"y":-659,"width":240,"height":279},
+		{"id":"1b022d608e0afd28","type":"text","text":"**Initiate**\n*A monk of the order dedicated to serving it, transcribing the books and learning the tradition of necromancy*","x":-1320,"y":-1150,"width":250,"height":180}
+	],
+	"edges":[
+		{"id":"1c9f6b4ecc712a51","fromNode":"1b022d608e0afd28","fromSide":"bottom","toNode":"86ea2f9fd119a3f8","toSide":"top"},
+		{"id":"2f05046435efa8f0","fromNode":"86ea2f9fd119a3f8","fromSide":"bottom","toNode":"7aafa714a7030eb0","toSide":"top"},
+		{"id":"536523f69c6081f3","fromNode":"7aafa714a7030eb0","fromSide":"bottom","toNode":"36b71f66e15109fd","toSide":"top"},
+		{"id":"e6f3e6214ae952a4","fromNode":"1b022d608e0afd28","fromSide":"bottom","toNode":"f94b08037eac607d","toSide":"top"},
+		{"id":"a5efc5293d6a8f63","fromNode":"62916cacd8a945da","fromSide":"bottom","toNode":"3bd025bffe1681f1","toSide":"top"},
+		{"id":"85fc1ed89a0910e1","fromNode":"3bd025bffe1681f1","fromSide":"bottom","toNode":"58144b952ffb9c7e","toSide":"top"}
+	]
+}

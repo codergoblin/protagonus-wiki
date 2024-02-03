@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c033e6cf93c38b9d","type":"text","text":"![[green lion.png]]\nEmerald enclave crest\n\"Visita interriora terrae rectificando invenies occultum lapidem\"","x":-700,"y":-560,"width":250,"height":360},
+		{"id":"da7dce5924ba5579","x":-700,"y":-180,"width":250,"height":222,"type":"text","text":"Emerald enclave have very flat and loose hierarchy, and don't assign ranks to their members, rather recognise them by their achievements."},
+		{"id":"a3a56809b4a65290","type":"text","text":"**Emerald guard**\nThe military branch of the organization, these are elite caducean defenders that wield alchemy and magic supplied by the order.\n","x":-400,"y":-560,"width":250,"height":240},
+		{"id":"ac373bb8a3867ae4","type":"text","text":"**Alchemists**\nInventors forming the major core of the organization. They work on everything from healthcare to weapons, from better concrete to transmutation. ","x":-100,"y":-560,"width":250,"height":240},
+		{"id":"1c674b4f93d56b5d","type":"text","text":"**Arcanists**\nMembers of the organization dedicated to learning and teaching the arcane. Transmuters, evokers and enchanters. ","x":-400,"y":-291,"width":250,"height":222},
+		{"id":"66a722589c94929e","type":"text","text":"**Masons**\nCivil engineers, use alchemy and mehanical engineering in an industrial scale.","x":-100,"y":-291,"width":250,"height":222}
+	],
+	"edges":[]
+}

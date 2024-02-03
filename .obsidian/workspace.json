@@ -4,30 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "79c071e3ad693de7",
+        "id": "6cbf8ffd460ca3ca",
         "type": "tabs",
         "children": [
           {
-            "id": "c85d480c365094b2",
+            "id": "e651cfd1d1e69fe1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "storm in phanes/sif/Sailor's melody.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f11b628aab4e0aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mandina/Mandina.md",
-                "mode": "source",
-                "source": false
+                "file": "caducea/organisations/Grave knights structure.canvas",
+                "viewState": {
+                  "x": -1035,
+                  "y": -715,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -81,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "06e88f0ff34e152a",
@@ -97,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "storm in phanes/sif/Sailor's melody.md",
+                "file": "caducea/organisations/Grave knights structure.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "storm in phanes/sif/Sailor's melody.md",
+                "file": "caducea/organisations/Grave knights structure.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,16 +128,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "storm in phanes/sif/Sailor's melody.md"
+                "file": "caducea/organisations/Grave knights structure.canvas"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,45 +148,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c85d480c365094b2",
+  "active": "e651cfd1d1e69fe1",
   "lastOpenFiles": [
+    "caducea/organisations/Grave knights.md",
+    "caducea/organisations/emerald enclave structure.canvas",
+    "caducea/organisations/Hermetic order structure.canvas",
+    "caducea/organisations/Grave knights structure.canvas",
+    "storm in phanes/characters/sif/Admiral Cobalt.md",
+    "storm in phanes/characters/sif/Sir Gladius de Gal.md",
+    "green.md",
+    "caducea/organisations/Emerald enclave.md",
+    "caducea/organisations/Hermetic order.md",
     "storm in phanes/sif/Sif.md",
     "storm in phanes/sif/Sif's Charity.md",
-    "storm in phanes/sif/Staff and the serpent.md",
-    "storm in phanes/sif/Sailor's melody.md",
-    "storm in phanes/sif/Grey docks.md",
-    "synthea/Peltas.md",
-    "mariad/Scilla.md",
-    "mariad/Omni.md",
-    "mariad/Archethi.md",
-    "mariad/Sethi.md",
     "storm in phanes/characters/sif/Rossanna Tsankaris.md",
-    "storm in phanes/characters/pc/Tryia Tsankaris.md",
-    "storm in phanes/flora-fauna/Untitled.md",
-    "storm in phanes/characters/Buldreath Frostforge.md",
-    "storm in phanes/characters/Negwen Lonecrest.md",
-    "storm in phanes/characters/Vagrant's retreat/Jeremiah Crow.md",
-    "storm in phanes/characters/sif/Patricia Swartz.md",
-    "storm in phanes/characters/Vagrant's retreat",
-    "storm in phanes/Indomitable.md",
-    "storm in phanes/Session notes.md",
-    "storm in phanes/Buccaneer.md",
-    "storm in phanes/characters/Vagrant's retreat",
-    "storm in phanes/characters/Vagrant's retreat/Oliden the terrible.md",
-    "storm in phanes/characters/sif/Maurice Delaunay.md",
+    "storm in phanes/characters/sif/Sister Vidomina.md",
     "storm in phanes/characters/sif/Laufrey Koldum.md",
-    "storm in phanes/characters/sif/Berthold MIseratti.md",
-    "storm in phanes/characters/sif/Benjamin Delaunay.md",
+    "storm in phanes/characters/pc/Kork Vingård.md",
+    "storm in phanes/characters/Negwen Lonecrest.md",
+    "storm in phanes/characters/Buldreath Frostforge.md",
+    "storm in phanes/sif/Staff and the serpent.md",
+    "storm in phanes/sif/The dentist.md",
+    "storm in phanes/sif/Tangle.md",
+    "storm in phanes/sif/Vagrant's retreat.md",
+    "storm in phanes/sif/Giant's pillar.md",
+    "2023-11-13.md",
+    "Broken giants.md",
+    "srd/Gamemastering/Pantheons.md",
+    "storm in phanes/characters/pc/Akira.md",
+    "mariad/Carcossa.md",
+    "mariad/Archethi.md",
+    "giants",
+    "storm in phanes/characters/Vagrant's retreat",
+    "storm in phanes/characters/Vagrant's retreat",
     "storm in phanes/characters/sif",
     "storm in phanes/sif",
-    "srd/Spells/Cone of Cold.md",
     "srd/RE&.logo.png",
     "srd/Treasure (Alt)",
     "srd/Treasure",
     "srd/Spells (Alt)",
     "srd/Spells",
     "srd/Races",
-    "srd/Monsters (Alt)",
     "srd/DND.SRD.Wiki-0.5.1/RE&.logo.png",
     "Untitled.canvas",
     "assets/patricia swartz.png",
